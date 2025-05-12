@@ -1,0 +1,4 @@
+{
+    "name": "GameObjectConfig.Editor",
+    "references": ["GameObjectConfig.Runtime"]
+}
